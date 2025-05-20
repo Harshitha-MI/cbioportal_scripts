@@ -8,6 +8,8 @@ The scripts in this repository support data extraction, preprocessing, and downs
 Querying clinical and genomic data from the cBioPortal Datasets
 Filtering and integrating molecular profiles
 Performing exploratory data analysis (EDA)
+Integrating the Pioneer PPI dataset with mutation data
+Mapping UniProt accession numbers to gene names for downstream annotation
 
-🧬 Use Case
-These scripts were developed during my role as a Bioinformatician, where I worked on analyzing cancer-related data using resources like cBioPortal to identify genomic alterations, patient-level statistics, and potential biomarkers.
+These scripts support downstream analysis aimed at identifying biologically meaningful interactions and mutation-driven disruptions in cancer.
+
