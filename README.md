@@ -1,6 +1,6 @@
 # cbioportal_scripts
 Tools for automating data extraction, filtering, and analysis of cancer datasets from cBioPortal.
-This repository contains Python scripts developed as part of my bioinformatics work involving cBioPortal, an open-source platform for exploring multidimensional cancer genomics data.
+This repository contains Python scripts developed during my work as a Bioinformatician, focused on integrating cancer mutation data from cBioPortal with external Protein–Protein Interaction (PPI) datasets, including the Pioneer PPI dataset.
 
 🔍 Overview
 The scripts in this repository support data extraction, preprocessing, and downstream analysis of cancer genomics datasets accessed through cBioPortal. They are designed to automate tasks such as:
